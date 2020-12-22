@@ -27,7 +27,7 @@ Criar um novo projeto
 Inicializar a aplicação
 ```ng serve```
 
-### O Projeto
+### Projeto
 
 O projeto tem como objetivo a aprendizagem do framework através da criação de um app que possibilita a listagem, edição e exclusão de cursos.
 
