@@ -33,21 +33,21 @@ Aborda os seguintes temas:
 
 - [x] Module
 
-- [ ] Components
+- [x] Components
 
-- [ ] Injeção de Dependência
+- [x] Injeção de Dependência
 
-- [ ] Data-binding
+- [x] Data-binding
 
-- [ ] Pipes
+- [x] Pipes
 
-- [ ] Rotas
+- [x] Rotas
 
-- [ ] Requisições Http
+- [x] Requisições Http
 
-- [ ] Segregação da aplicação
+- [x] Segregação da aplicação
 
-- [ ] Estruturação com core e share
+- [x] Estruturação com core e share
 
 
 ### Tecnologias utilizadas no projeto
