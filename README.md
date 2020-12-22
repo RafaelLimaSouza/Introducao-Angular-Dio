@@ -5,9 +5,9 @@ Estrutura base do sistema disponibilizada pelo instrutor Weslhey Holanda no link
 
 ## Tecnologias
 
-*Angular8
-*NodeJS
-*Typescript
+* Angular8
+* NodeJS
+* Typescript
 
 
 
