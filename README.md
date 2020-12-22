@@ -3,7 +3,7 @@ Curso de introdução ao Angular 8 na DIO - Bootcamp Fullstack Avanade
 
 Estrutura base do sistema disponibilizada pelo instrutor Weslhey Holanda no link https://github.com/wesllhey/course-manager.
 
-##Angular
+## Angular
 Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps
 
 ## Pré-Requisitos
