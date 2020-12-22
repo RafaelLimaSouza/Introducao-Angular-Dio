@@ -25,13 +25,21 @@ Criar um novo projeto
 Inicializar a aplicação
 ```ng serve```
 
-### Conceitos importantes
+### O Projeto
 
-Data-Binding: Numa definição bem simplista temos que o Data-Binding é a sincronização automática de dados entre os modelos e os componentes da view.
+O projeto tem como objetivo a aprendizagem do framework através da criação de um app que possibilita a listagem, edição e exclusão de cursos.
 
-One-Way-Data-Binding: apenas exibir o valor de uma variável no template [ngModel]
+Aborda os seguintes temas:
+-[ ] Module
+-[ ] Components
+-[ ] Injeção de Dependência
+-[ ] Data-binding
+-[ ] Pipes
+-[ ] Rotas
+-[ ] Requisições Http
+-[ ] Segregação da aplicação
+-[ ] Estruturação com core e share
 
-Two-Way-Data-Binding: exibe e altera o valor de uma variável no template [( ng-Model )]
 
 ### Tecnologias utilizadas no projeto
 
@@ -39,6 +47,7 @@ Two-Way-Data-Binding: exibe e altera o valor de uma variável no template [( ng-
 * NodeJS
 * Typescript
 * Bootstrap
+* CSS
 
 
 
