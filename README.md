@@ -30,15 +30,24 @@ Inicializar a aplicação
 O projeto tem como objetivo a aprendizagem do framework através da criação de um app que possibilita a listagem, edição e exclusão de cursos.
 
 Aborda os seguintes temas:
--[ ] Module
--[ ] Components
--[ ] Injeção de Dependência
--[ ] Data-binding
--[ ] Pipes
--[ ] Rotas
--[ ] Requisições Http
--[ ] Segregação da aplicação
--[ ] Estruturação com core e share
+
+- [ ] Module
+
+- [ ] Components
+
+- [ ] Injeção de Dependência
+
+- [ ] Data-binding
+
+- [ ] Pipes
+
+- [ ] Rotas
+
+- [ ] Requisições Http
+
+- [ ] Segregação da aplicação
+
+- [ ] Estruturação com core e share
 
 
 ### Tecnologias utilizadas no projeto
