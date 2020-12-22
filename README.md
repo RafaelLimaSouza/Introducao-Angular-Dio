@@ -31,7 +31,7 @@ O projeto tem como objetivo a aprendizagem do framework através da criação de
 
 Aborda os seguintes temas:
 
-- [ ] Module
+- [x] Module
 
 - [ ] Components
 
