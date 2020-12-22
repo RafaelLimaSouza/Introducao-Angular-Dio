@@ -29,9 +29,9 @@ Inicializar a aplicação
 
 Data-Binding: Numa definição bem simplista temos que o Data-Binding é a sincronização automática de dados entre os modelos e os componentes da view.
 
-One-Way-Data-Binding: One-Way-Data-Binding – apenas exibir o valor de uma variável no template [ngModel]
+One-Way-Data-Binding: apenas exibir o valor de uma variável no template [ngModel]
 
-Two-Way-Data-Binding: Two-Way_Data-Binding – exibe e altera o valor de uma variável no template [( ng-Model )]
+Two-Way-Data-Binding: exibe e altera o valor de uma variável no template [( ng-Model )]
 
 ### Tecnologias utilizadas no projeto
 
