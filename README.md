@@ -6,7 +6,7 @@ Estrutura base do sistema disponibilizada pelo instrutor Weslhey Holanda no link
 <img alt="Imagem do App" src="./course-manager/src/assets/images/print-app.jpg">
 
 ## Angular
-Angular is an application design framework and development platform for creating efficient and sophisticated single-page apps
+Angular é um framework para design de aplicacções e plataforma de desenvolvimento para a criação eficiente e sofisticada de SPA (Single-Page Aps)
 
 ## Pré-Requisitos
 * Javascript
