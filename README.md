@@ -3,7 +3,7 @@ Curso de introdução ao Angular 8 na DIO - Bootcamp Fullstack Avanade
 
 Estrutura base do sistema disponibilizada pelo instrutor Weslhey Holanda no link https://github.com/wesllhey/course-manager.
 
-##Requisitos
+## Requisitos
 - Instalação do NodeJS
 - Conhecimento de JS
 
