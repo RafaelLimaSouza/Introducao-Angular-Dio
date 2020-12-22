@@ -29,9 +29,7 @@ Inicializar a aplicação
 
 ### Projeto
 
-O projeto tem como objetivo a aprendizagem do framework através da criação de um app que possibilita a listagem, edição e exclusão de cursos.
-
-Aborda os seguintes temas:
+O projeto tem como objetivo a aprendizagem do framework através da criação de um app que possibilita a listagem, edição e exclusão de cursos. Aborda os seguintes temas:
 
 - [x] Module
 
